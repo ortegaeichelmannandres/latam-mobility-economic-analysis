@@ -9,7 +9,7 @@ This project evaluates the relationship between traffic congestion and economic 
 - **Critical Saturation (CDMX & São Paulo):** Mexico City has the highest traffic delays despite high productivity.
 - **Investment Opportunity:** **São Paulo** was identified as the primary candidate for transport infrastructure investment due to its high economic weight and critical traffic saturation levels.
 
-![GDP vs Traffic](visuals/gdp_vs_traffic.png)
+![GDP vs Traffic](visuals/jamsdelay-vs-gdp.png)
 
 ## 🛠️ Tools & Libraries
 - **Python (Pandas):** Data cleaning and manipulation.
